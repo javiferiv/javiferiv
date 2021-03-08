@@ -15,6 +15,6 @@ Choosed Player => Javier Fernández - Level 30
 - 🔭 I’m working on my personal portfolio
 - 🌱 I’m currently learning Typescript and Redux
 
-## My Profile
+## My Profile <img width="30%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209133/Github%20Pics/star_skills_kwsjey.jpg' alt='banner_github_loading'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiferiv&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=javiferiv&show_icons=true&theme=slateorange)  
