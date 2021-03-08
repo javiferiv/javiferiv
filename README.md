@@ -21,7 +21,7 @@
 
 <img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214722/Github%20Pics/node_pix_cjcqju.jpg' alt='node.js' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214724/Github%20Pics/express_pix_sx86fh.jpg' alt='expressJs' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214723/Github%20Pics/mongo_pix_dputey.jpg' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214725/Github%20Pics/postman_pix_xixtop.jpg' alt='postman' height='40'>
 
-<img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214725/Github%20Pics/visual_pix_rst3sd.jpg' alt='visual studio code' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615215644/Github%20Pics/git_pix_begnz2.jpg' alt='git' height='40'>
+<img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214725/Github%20Pics/visual_pix_rst3sd.jpg' alt='visual studio code' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615215781/Github%20Pics/git_pix_2_bid1td.jpg' alt='git' height='40'>
 
 ## Game Stadistics <img width="7%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209999/Github%20Pics/trophy_gif_fxslsi.gif'>
 
