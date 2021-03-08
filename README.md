@@ -10,7 +10,7 @@
 
 ## Player Description
 
-- ✨ Code Warrior
+- ✨ **Code Warrior**: A web developer based in Madrid (Spain). Javier always have been an expert in communication and marketing. However, he has decided to focus their new adventure in his great passion: programming. 
 - ✨ **Main Weapon**: MERN
 
 ## My SuperPowers <img width="7%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615210102/Github%20Pics/star_gif_lsbjhw.gif' alt='banner_github_loading'>
