@@ -1,7 +1,7 @@
 Hi there! Welcome to my game:
 
-<p align='center'>
-**Choosed** Player => Javier Fernández - Level 30
+<p align='center' font-weight: bold>
+Choosed Player => Javier Fernández - Level 30
 </p>
 
 [<img align='center' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/javiferiv) [<img align='center' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'>](https://www.linkedin.com/in/jfernandezrivera/)
