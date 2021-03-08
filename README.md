@@ -19,9 +19,9 @@
 
 <img src='https://res.cloudinary.com/javiferiv/image/upload/v1615224770/Github%20Pics/bootstrap_jnuyyc.png' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214724/Github%20Pics/javascript_pix_ovghvz.jpg' alt='Javascript' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615224911/Github%20Pics/react_zxs46y.png' height='40'>
 
-<img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214722/Github%20Pics/node_pix_cjcqju.jpg' alt='node.js' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214724/Github%20Pics/express_pix_sx86fh.jpg' alt='expressJs' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214723/Github%20Pics/mongo_pix_dputey.jpg' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615225067/Github%20Pics/postman_rxrbjc.png' alt='postman' height='40'>
+<img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214722/Github%20Pics/node_pix_cjcqju.jpg' alt='node.js' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615225246/Github%20Pics/express_gpaqpc.png' alt='expressJs' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214723/Github%20Pics/mongo_pix_dputey.jpg' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615225067/Github%20Pics/postman_rxrbjc.png' alt='postman' height='40'>
 
-<img src='https://res.cloudinary.com/javiferiv/image/upload/v1615225024/Github%20Pics/visual_studio_yfl2vu.png' alt='visual studio code' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615215781/Github%20Pics/git_pix_2_bid1td.jpg' alt='git' height='40'>
+<img src='https://res.cloudinary.com/javiferiv/image/upload/v1615225024/Github%20Pics/visual_studio_yfl2vu.png' alt='visual studio code' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615225309/Github%20Pics/git_hexkns.png' alt='git' height='40'>
 
 ## Game Stadistics <img width="7%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209999/Github%20Pics/trophy_gif_fxslsi.gif'>
 
