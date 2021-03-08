@@ -3,7 +3,7 @@
 
 **Hi there! Welcome to my game**
 
-## Choosed Player => Javier Fernández - Level 30 <img width="5%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209346/Github%20Pics/profile_image_ocsqnk.png' alt='banner_github_loading'>
+## Choosed Player => Javier Fernández - Level 30 <img width="5%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615210166/Github%20Pics/player_gif_r0r4mf.webp' alt='banner_github_loading'>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/javiferiv) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'>](https://www.linkedin.com/in/jfernandezrivera/)
 
