@@ -1,6 +1,6 @@
 Hi there! Welcome to my game:
 
-<p align='center' font-weight: bold>
+<p align='center' font-weight: 'bold'>
 Choosed Player => Javier Fernández - Level 30
 </p>
 
