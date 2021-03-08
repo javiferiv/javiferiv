@@ -16,7 +16,14 @@ Hi there! Welcome to my game:
 - 🔭 I’m working on my personal portfolio
 - 🌱 I’m currently learning Typescript and Redux
 
-## My SuperPowers <img width="5%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209216/Github%20Pics/star_skills.png' alt='banner_github_loading'>
+## My SuperPowers <img width="7%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209216/Github%20Pics/star_skills.png' alt='banner_github_loading'>
+<img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430404/fotos-webuild/css3_p7pf8q.svg' alt='CSS3' height='40'><img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430400/fotos-webuild/sass_oz7ufn.svg' alt='sass' height='40'><img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430400/fotos-webuild/bootstrap_liasfn.svg' alt='bootstrap' height='40'>
+
+<img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430402/fotos-webuild/javascript_soz0xl.svg' alt='Javascript' height='40'><img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430402/fotos-webuild/react_tvjr0u.svg' alt='reactJs' height='40'>
+
+<img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430402/fotos-webuild/node-dot-js_1_qsamec.svg' alt='node.js' height='40'><img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430402/fotos-webuild/express_zcyoqx.svg' alt='expressJs' height='40'><img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430402/fotos-webuild/mongodb_hpv9n5.svg' alt='mongodb' height='40'><img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430400/fotos-webuild/postman_gfscqm.svg' alt='postman' height='40'>
+
+<img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430404/fotos-webuild/visualstudiocode_b7aoyg.svg' alt='visual studio code' height='40'><img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430400/fotos-webuild/git_a7b1jy.svg' alt='git' height='40'>
 
 ## Game Stadistics <img width="5%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209643/Github%20Pics/trophy_qygw5h.png'>
 
