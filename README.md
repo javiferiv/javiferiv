@@ -5,7 +5,7 @@
 
 ## Choosed Player => Javier Fernández - Level 30 <img width="5%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615210166/Github%20Pics/player_gif_r0r4mf.webp' alt='banner_github_loading'>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/javiferiv) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'>](https://www.linkedin.com/in/jfernandezrivera/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/javiferiv) [<img src='https://res.cloudinary.com/javiferiv/image/upload/v1615215500/Github%20Pics/linkedin_pix_rkuelp.jpg' alt='github' height='40'>](https://www.linkedin.com/in/jfernandezrivera/)
 
 
 ## Player Description
@@ -22,6 +22,7 @@
 <img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214722/Github%20Pics/node_pix_cjcqju.jpg' alt='node.js' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214724/Github%20Pics/express_pix_sx86fh.jpg' alt='expressJs' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214723/Github%20Pics/mongo_pix_dputey.jpg' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214725/Github%20Pics/postman_pix_xixtop.jpg' alt='postman' height='40'>
 
 <img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214725/Github%20Pics/visual_pix_rst3sd.jpg' alt='visual studio code' height='40'>
+<img src='https://res.cloudinary.com/javiferiv/image/upload/v1615215500/Github%20Pics/git_pix_yqzt9k.jpg' alt='git' height='40'>
 
 ## Game Stadistics <img width="7%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209999/Github%20Pics/trophy_gif_fxslsi.gif'>
 
