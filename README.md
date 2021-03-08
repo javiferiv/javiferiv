@@ -1,5 +1,5 @@
 
-<img width="100%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615208868/Github%20Pics/banner_github_loading.jpg' alt='HTML5'>
+<img width="100%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615208868/Github%20Pics/banner_github_loading.jpg' alt='banner_github_loading'>
 
 <p align='center'>
 Hi there! Welcome to my game:
