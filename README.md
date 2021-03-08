@@ -22,7 +22,6 @@
 
 <img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430404/fotos-webuild/visualstudiocode_b7aoyg.svg' alt='visual studio code' height='40'><img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430400/fotos-webuild/git_a7b1jy.svg' alt='git' height='40'>
 
-## Game Stadistics <img width="5%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209643/Github%20Pics/trophy_qygw5h.png'>
-<img width="5%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209999/Github%20Pics/trophy_gif_fxslsi.gif'>
+## Game Stadistics <img width="7%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209999/Github%20Pics/trophy_gif_fxslsi.gif'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiferiv&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=javiferiv&show_icons=true&theme=slateorange)  
