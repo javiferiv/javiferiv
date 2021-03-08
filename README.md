@@ -12,3 +12,6 @@ Hi there! Welcome to my game:
 - 🔭 I’m working on my personal portfolio
 - 🌱 I’m currently learning Typescript and Redux
 
+## My Profile
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiferiv&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=javiferiv&show_icons=true&theme=slateorange)  
