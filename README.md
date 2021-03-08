@@ -17,7 +17,7 @@
 
 <img src='https://res.cloudinary.com/javiferiv/image/upload/v1615213885/Github%20Pics/css_pix_s6g49s.jpg' alt='CSS3' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214076/Github%20Pics/sass_pix_hzf7l9.jpg' height='40'>
 
-<img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214076/Github%20Pics/bootstrap_pix_snyk43.jpg' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615223992/Github%20Pics/javascript-removebg-preview_vttob0.png' alt='Javascript' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214727/Github%20Pics/react_pix_xscvqz.jpg' alt='reactJs' height='40'>
+<img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214076/Github%20Pics/bootstrap_pix_snyk43.jpg' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214724/Github%20Pics/javascript_pix_ovghvz.jpg' alt='Javascript' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214727/Github%20Pics/react_pix_xscvqz.jpg' alt='reactJs' height='40'>
 
 <img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214722/Github%20Pics/node_pix_cjcqju.jpg' alt='node.js' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214724/Github%20Pics/express_pix_sx86fh.jpg' alt='expressJs' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214723/Github%20Pics/mongo_pix_dputey.jpg' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214725/Github%20Pics/postman_pix_xixtop.jpg' alt='postman' height='40'>
 
