@@ -13,7 +13,7 @@
 - ✨ Code Warrior
 - ✨ **Main Weapon**: MERN
 
-## My SuperPowers <img width="7%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209216/Github%20Pics/star_skills.png' alt='banner_github_loading'>
+## My SuperPowers <img width="7%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615210102/Github%20Pics/star_gif_lsbjhw.gif' alt='banner_github_loading'>
 <img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430404/fotos-webuild/css3_p7pf8q.svg' alt='CSS3' height='40'><img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430400/fotos-webuild/sass_oz7ufn.svg' alt='sass' height='40'><img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430400/fotos-webuild/bootstrap_liasfn.svg' alt='bootstrap' height='40'>
 
 <img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430402/fotos-webuild/javascript_soz0xl.svg' alt='Javascript' height='40'><img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430402/fotos-webuild/react_tvjr0u.svg' alt='reactJs' height='40'>
