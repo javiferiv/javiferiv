@@ -16,6 +16,8 @@ Hi there! Welcome to my game:
 - 🔭 I’m working on my personal portfolio
 - 🌱 I’m currently learning Typescript and Redux
 
-## My Profile <img width="5%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209216/Github%20Pics/star_skills.png' alt='banner_github_loading'>
+## My SuperPowers <img width="5%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209216/Github%20Pics/star_skills.png' alt='banner_github_loading'>
+
+## Game Stadistics <img width="5%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209643/Github%20Pics/trophy_qygw5h.png'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiferiv&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=javiferiv&show_icons=true&theme=slateorange)  
