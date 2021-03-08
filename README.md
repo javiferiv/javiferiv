@@ -1,5 +1,6 @@
-Hi there! Welcome to my profile.
-Please, seat back and relax, because im gonna tell you somethings about me (but I promise you that I wont be boring)
+Hi there! Welcome to my game:
+
+Choosed Player => Javier Fernández - Level 31
 
 Something that I'm doing now
 
