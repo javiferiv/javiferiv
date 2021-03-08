@@ -26,3 +26,6 @@
 ## Game Stadistics <img width="7%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615209999/Github%20Pics/trophy_gif_fxslsi.gif'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiferiv&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=javiferiv&show_icons=true&theme=slateorange)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiferiv)](https://github.com/anuraghazra/github-readme-stats)
+
