@@ -15,9 +15,9 @@
 
 ## My SuperPowers <img width="7%" src='https://res.cloudinary.com/javiferiv/image/upload/v1615210102/Github%20Pics/star_gif_lsbjhw.gif' alt='banner_github_loading'>
 
-<img src='https://res.cloudinary.com/javiferiv/image/upload/v1615224688/Github%20Pics/css_zmbjux.png' alt='CSS3' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214076/Github%20Pics/sass_pix_hzf7l9.jpg' height='40'>
+<img src='https://res.cloudinary.com/javiferiv/image/upload/v1615224688/Github%20Pics/css_zmbjux.png' alt='CSS3' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214076/Github%20Pics/sass_pix_hzf7l9.jpg' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615224770/Github%20Pics/bootstrap_jnuyyc.png' height='40'>
 
-<img src='https://res.cloudinary.com/javiferiv/image/upload/v1615224770/Github%20Pics/bootstrap_jnuyyc.png' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214724/Github%20Pics/javascript_pix_ovghvz.jpg' alt='Javascript' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615224911/Github%20Pics/react_zxs46y.png' height='40'>
+<img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214724/Github%20Pics/javascript_pix_ovghvz.jpg' alt='Javascript' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615224911/Github%20Pics/react_zxs46y.png' height='40'>
 
 <img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214722/Github%20Pics/node_pix_cjcqju.jpg' alt='node.js' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214724/Github%20Pics/express_pix_sx86fh.jpg' alt='expressJs' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615214723/Github%20Pics/mongo_pix_dputey.jpg' height='40'><img src='https://res.cloudinary.com/javiferiv/image/upload/v1615225067/Github%20Pics/postman_rxrbjc.png' alt='postman' height='40'>
 
